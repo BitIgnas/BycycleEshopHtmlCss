@@ -1,0 +1,388 @@
+/*
+	@name landing_page
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1911px;
+  width: 1911px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content-container > div {
+  position: relative;
+  top: inherit;
+}
+#page_desktop___1_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1911px;
+  height: 2012px;
+}
+
+#_bg__desktop___1_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1911px;
+  height: 2012px;
+}
+
+#alec_moore_vmgebtlpqx8_unsplash_1 {
+  top: 1024px;
+  left: 0px;
+  width: 2333px;
+  height: 1114px;
+}
+
+#photo_1536340940796_cff4aca6428e_1 {
+  top: 0px;
+  left: 0px;
+  width: 1911px;
+  height: 1024px;
+}
+
+#button_order_now {
+  top: 571px;
+  left: 465px;
+  width: 238px;
+  height: 61px;
+}
+
+#rectangle_3 {
+  top: 0px;
+  left: 0px;
+  width: 238px;
+  height: 61px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  background: rgba(64.81, 57.79, 57.79, 1);
+}
+
+#order_now {
+  top: 19px;
+  left: 36px;
+  width: 171px;
+  height: 37px;
+  overflow: hidden;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 4.5px;
+  color: #ffffff;
+}
+
+#button_view_cycles {
+  top: 571px;
+  left: 737px;
+  width: 238px;
+  height: 61px;
+}
+
+#rectangle_3_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 238px;
+  height: 61px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  background: rgba(64.81, 57.79, 57.79, 1);
+}
+
+#view_cycles {
+  top: 19px;
+  left: 25px;
+  width: 190px;
+  height: 37px;
+  overflow: hidden;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 4.5px;
+  color: #ffffff;
+}
+
+#get_next_years_firendly_bycycle_now {
+  top: 407px;
+  left: 465px;
+  width: 693px;
+  height: 209px;
+  overflow: hidden;
+  font-family: Work Sans;
+  font-size: 64px;
+  font-weight: bold;
+  text-align: left;
+  color: #4a6895;
+}
+
+#navigation {
+  top: 0px;
+  left: 0px;
+  width: 1970px;
+  height: 123px;
+}
+#navigation_bar {
+  top: 0px;
+  left: 0px;
+  width: 1970px;
+  height: 123px;
+}
+
+#rectangle_2 {
+  top: 0px;
+  left: 0px;
+  width: 1970px;
+  height: 123px;
+  background: rgba(64.81, 57.79, 57.79, 1);
+}
+
+#friendly_cycles {
+  top: 30px;
+  left: 16px;
+  width: 381px;
+  height: 101px;
+  overflow: hidden;
+  font-family: Oswald;
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#group_1 {
+  top: 22px;
+  left: 1069px;
+  width: 864px;
+  height: 78px;
+}
+
+#bycycles {
+  bottom: -38px;
+  left: 10px;
+  width: 240px;
+  height: 93px;
+  overflow: hidden;
+  font-family: PT Sans;
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#gallery {
+  bottom: -38px;
+  left: 220px;
+  width: 240px;
+  height: 93px;
+  overflow: hidden;
+  font-family: PT Sans;
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#pricing {
+  bottom: -38px;
+  left: 409px;
+  width: 240px;
+  height: 93px;
+  overflow: hidden;
+  font-family: PT Sans;
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#contacts {
+  bottom: -38px;
+  left: 632px;
+  width: 240px;
+  height: 93px;
+  overflow: hidden;
+  font-family: PT Sans;
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#_4_1 {
+  top: 1px;
+  left: 0px;
+  width: 76px;
+  height: 63px;
+}
+
+#_2_1 {
+  top: 13px;
+  left: 418px;
+  width: 55px;
+  height: 55px;
+}
+
+#_3_1 {
+  top: 16px;
+  left: 204px;
+  width: 76px;
+  height: 46px;
+}
+
+#_1_1 {
+  top: 13px;
+  left: 612px;
+  width: 61.6px;
+  height: 55px;
+}
+
+#rectangle_5 {
+  top: 1102px;
+  left: 29px;
+  width: 503px;
+  height: 715px;
+  background: rgba(196, 196, 196, 1);
+}
+
+#rectangle_6 {
+  top: 1102px;
+  left: 704px;
+  width: 503px;
+  height: 715px;
+  background: rgba(196, 196, 196, 1);
+}
+
+#rectangle_7 {
+  top: 1102px;
+  left: 1379px;
+  width: 503px;
+  height: 715px;
+  background: rgba(196, 196, 196, 1);
+}
+
+#quality {
+  top: 1270px;
+  left: 69px;
+  width: 422px;
+  height: 147px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 64px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#professionals {
+  top: 1270px;
+  left: 720px;
+  width: 494px;
+  height: 147px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 64px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+}
+
+#location {
+  top: 1270px;
+  left: 1431px;
+  width: 422px;
+  height: 147px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 64px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+}
+
+#noun_maps_3887569_1 {
+  top: 1120px;
+  left: 1553px;
+  width: 192px;
+  height: 151px;
+}
+
+#noun_professionals_648900_1 {
+  top: 1120px;
+  left: 858px;
+  width: 184.88px;
+  height: 150px;
+}
+
+#noun_customer_2881375_1 {
+  top: 1120px;
+  left: 189px;
+  width: 169.01px;
+  height: 150px;
+}
+
+#our_produtcs_are_best_in_quality__we_make_bycycles_take_have_no_competition_in_current_market_ {
+  top: 1336px;
+  left: 78px;
+  width: 417px;
+  height: 366px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+#we_are_professionals_in_making_quality_rich_bycycles_that_are_well_known_in_market_now_for_quite_some_time_ {
+  top: 1358px;
+  left: 750px;
+  width: 417px;
+  height: 366px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+#our_current_location_is_located_in_nice_town_called___mykoli_k_s__this_village_is_knowned_for_some_time_to_have_some_high_quality_workshops_ {
+  top: 1403px;
+  left: 1436px;
+  width: 417px;
+  height: 366px;
+  overflow: hidden;
+  font-family: Libre Baskerville;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+/* Add your custom CSS here */
